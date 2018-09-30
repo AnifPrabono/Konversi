@@ -1,0 +1,13 @@
+E:\SEMESTER 3\MatKul\Pemrograman Lanjut\02\KonversiApp\KonversiApp\bin\Debug\KonversiApp.exe.config
+E:\SEMESTER 3\MatKul\Pemrograman Lanjut\02\KonversiApp\KonversiApp\bin\Debug\KonversiApp.exe
+E:\SEMESTER 3\MatKul\Pemrograman Lanjut\02\KonversiApp\KonversiApp\bin\Debug\KonversiApp.pdb
+E:\SEMESTER 3\MatKul\Pemrograman Lanjut\02\KonversiApp\KonversiApp\obj\Debug\KonversiApp.csprojAssemblyReference.cache
+E:\SEMESTER 3\MatKul\Pemrograman Lanjut\02\KonversiApp\KonversiApp\obj\Debug\KonversiApp.Form1.resources
+E:\SEMESTER 3\MatKul\Pemrograman Lanjut\02\KonversiApp\KonversiApp\obj\Debug\KonversiApp.Properties.Resources.resources
+E:\SEMESTER 3\MatKul\Pemrograman Lanjut\02\KonversiApp\KonversiApp\obj\Debug\KonversiApp.csproj.GenerateResource.cache
+E:\SEMESTER 3\MatKul\Pemrograman Lanjut\02\KonversiApp\KonversiApp\obj\Debug\KonversiApp.csproj.CoreCompileInputs.cache
+E:\SEMESTER 3\MatKul\Pemrograman Lanjut\02\KonversiApp\KonversiApp\obj\Debug\KonversiApp.exe
+E:\SEMESTER 3\MatKul\Pemrograman Lanjut\02\KonversiApp\KonversiApp\obj\Debug\KonversiApp.pdb
+E:\SEMESTER 3\MatKul\Pemrograman Lanjut\02\KonversiApp\KonversiApp\bin\Debug\TerbilangLibrary.dll
+E:\SEMESTER 3\MatKul\Pemrograman Lanjut\02\KonversiApp\KonversiApp\bin\Debug\TerbilangLibrary.pdb
+E:\SEMESTER 3\MatKul\Pemrograman Lanjut\02\KonversiApp\KonversiApp\obj\Debug\KonversiApp.csproj.CopyComplete

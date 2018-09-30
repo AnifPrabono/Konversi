@@ -1,0 +1,6 @@
+E:\SEMESTER 3\MatKul\Pemrograman Lanjut\02\KonversiApp\TerbilangLibrary\bin\Debug\TerbilangLibrary.dll
+E:\SEMESTER 3\MatKul\Pemrograman Lanjut\02\KonversiApp\TerbilangLibrary\bin\Debug\TerbilangLibrary.pdb
+E:\SEMESTER 3\MatKul\Pemrograman Lanjut\02\KonversiApp\TerbilangLibrary\obj\Debug\TerbilangLibrary.csprojAssemblyReference.cache
+E:\SEMESTER 3\MatKul\Pemrograman Lanjut\02\KonversiApp\TerbilangLibrary\obj\Debug\TerbilangLibrary.csproj.CoreCompileInputs.cache
+E:\SEMESTER 3\MatKul\Pemrograman Lanjut\02\KonversiApp\TerbilangLibrary\obj\Debug\TerbilangLibrary.dll
+E:\SEMESTER 3\MatKul\Pemrograman Lanjut\02\KonversiApp\TerbilangLibrary\obj\Debug\TerbilangLibrary.pdb
